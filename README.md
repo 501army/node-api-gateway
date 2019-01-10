@@ -1,4 +1,4 @@
-Simple API using NodeJs
+Simple API Gateway using NodeJs
 
 How to use ?
 1. Clone it
